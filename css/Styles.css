@@ -1,0 +1,42 @@
+body  {
+  color: rgb(260, 77,39);
+  font-family:arial;
+  margin: 0px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.center{
+  width: 50%;
+
+background-color: lightcyan;
+text-align: center;
+color: black;
+}
+.blackDiv{
+  height: 300px;
+      padding-top: 130px;
+      background: #022a54;
+      color: white;
+      font-weight: bolder;
+      font-size: 20px;
+      font-size: 26px;
+      padding: 90px 80px 130px 40px;
+}
+.words{
+  COLOR: BLACK;
+    FONT-SIZE: 18PX;
+    margin-left: 20px;
+}
